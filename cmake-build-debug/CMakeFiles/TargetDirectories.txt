@@ -1,0 +1,4 @@
+/Users/elenaelizarova/CLionProjects/test123/cmake-build-debug/CMakeFiles/project1.dir
+/Users/elenaelizarova/CLionProjects/test123/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/elenaelizarova/CLionProjects/test123/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/elenaelizarova/CLionProjects/test123/cmake-build-debug/CMakeFiles/project1_lib.dir
